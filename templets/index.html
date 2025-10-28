@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Petrol Price Forecasting</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Petrol Price Forecasting</h1>
+        <form action="/predict" method="post">
+            <label>Previous Day Price:</label>
+            <input type="text" name="prev1" required><br>
+            <label>2 Days Ago Price:</label>
+            <input type="text" name="prev2" required><br>
+            <label>3 Days Ago Price:</label>
+            <input type="text" name="prev3" required><br>
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if prediction_text %}
+            <h2>{{ prediction_text }}</h2>
+        {% endif %}
+    </div>
+</body>
+</html>

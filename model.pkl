@@ -1,0 +1,22 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import GradientBoostingRegressor
+import pickle
+
+# Load data
+df = pd.read_csv('petrol_prices.csv')
+df['Prev_1'] = df['Petrol_Price'].shift(1)
+df['Prev_2'] = df['Petrol_Price'].shift(2)
+df['Prev_3'] = df['Petrol_Price'].shift(3)
+df.dropna(inplace=True)
+
+X = df[['Prev_1','Prev_2','Prev_3']]
+y = df['Petrol_Price']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
+
+model = GradientBoostingRegressor()
+model.fit(X_train, y_train)
+
+# Save model
+pickle.dump(model, open('model.pkl', 'wb'))

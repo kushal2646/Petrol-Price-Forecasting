@@ -1,0 +1,101 @@
+City,County,Country,Fuel_Type,Price_GBP,Date
+Guildford,South East England,United Kingdom,Petrol,5.19,2024-02-27
+Reading,South East England,United Kingdom,Petrol,5.34,2024-02-17
+Dudley,South East England,United Kingdom,Diesel,5.16,2024-04-01
+Cambridge,East of England,United Kingdom,Petrol,6.93,2024-02-02
+Dudley,South East England,United Kingdom,Diesel,6.0,2024-03-26
+Harlow,South East England,United Kingdom,Diesel,7.0,2024-02-22
+Liverpool,Merseyside,United Kingdom,Petrol,6.37,2024-03-10
+Ipswich,West Midlands,United Kingdom,Petrol,6.15,2024-02-10
+Sunderland,North East England,United Kingdom,Petrol,6.8,2024-02-19
+Londonderry,South West England,United Kingdom,Petrol,6.21,2024-05-01
+Stoke-on-Trent,West Midlands,United Kingdom,Diesel,5.48,2024-03-21
+Belfast,Northern Ireland,United Kingdom,Diesel,6.45,2024-02-08
+Watford,Yorkshire and The Humber,United Kingdom,Diesel,6.17,2024-02-22
+Ipswich,West Midlands,United Kingdom,Petrol,6.2,2024-04-07
+Halifax,East of England,United Kingdom,Diesel,5.41,2024-02-20
+Gillingham,East Midlands,United Kingdom,Petrol,5.44,2024-03-09
+Stoke-on-Trent,West Midlands,United Kingdom,Diesel,6.95,2024-03-31
+Barking,North West England,United Kingdom,Diesel,6.77,2024-02-29
+Sunderland,North East England,United Kingdom,Diesel,5.98,2024-02-26
+Harlow,South East England,United Kingdom,Diesel,5.26,2024-02-25
+Slough,Scotland,United Kingdom,Diesel,6.74,2024-03-28
+Stafford,North West England,United Kingdom,Petrol,5.01,2024-02-23
+Oxford,South East England,United Kingdom,Diesel,5.97,2024-02-07
+Coventry,West Midlands,United Kingdom,Petrol,5.4,2024-03-16
+Liverpool,Merseyside,United Kingdom,Diesel,5.37,2024-02-19
+Coventry,West Midlands,United Kingdom,Diesel,5.61,2024-03-14
+Halifax,East of England,United Kingdom,Diesel,5.94,2024-03-12
+Exeter,South West England,United Kingdom,Diesel,5.07,2024-02-16
+Croydon,London,United Kingdom,Petrol,6.14,2024-04-12
+Mansfield,East of England,United Kingdom,Diesel,6.99,2024-02-06
+Wokingham,South East England,United Kingdom,Diesel,5.74,2024-02-11
+Brighton,South East England,United Kingdom,Petrol,6.8,2024-03-29
+London,Greater London,United Kingdom,Petrol,6.58,2024-04-20
+Wigan,North West England,United Kingdom,Diesel,5.24,2024-04-06
+Wokingham,South East England,United Kingdom,Petrol,6.86,2024-02-05
+Warrington,London,United Kingdom,Diesel,5.32,2024-03-20
+Mansfield,East of England,United Kingdom,Petrol,6.94,2024-03-18
+Cardiff,Wales,United Kingdom,Diesel,6.83,2024-02-19
+St Albans,North West England,United Kingdom,Petrol,6.72,2024-04-02
+Guildford,South East England,United Kingdom,Petrol,6.32,2024-04-09
+Darlington,East of England,United Kingdom,Petrol,5.29,2024-02-15
+Birmingham,West Midlands,United Kingdom,Petrol,5.22,2024-04-19
+Paignton,South East England,United Kingdom,Petrol,5.83,2024-04-15
+Wrexham,Northern Ireland,United Kingdom,Diesel,5.63,2024-04-15
+Darlington,East of England,United Kingdom,Diesel,5.48,2024-02-09
+Grimsby,South West England,United Kingdom,Petrol,6.41,2024-04-28
+Derby,East Midlands,United Kingdom,Diesel,5.54,2024-04-04
+Woking,South East England,United Kingdom,Diesel,5.19,2024-02-27
+Birmingham,West Midlands,United Kingdom,Diesel,6.05,2024-02-12
+Swansea,Wales,United Kingdom,Petrol,6.62,2024-02-20
+Guildford,South East England,United Kingdom,Diesel,5.93,2024-04-30
+Oxford,South East England,United Kingdom,Diesel,5.23,2024-03-23
+Barking,North West England,United Kingdom,Diesel,5.49,2024-04-07
+Dudley,South East England,United Kingdom,Petrol,5.55,2024-02-24
+Newcastle,North East England,United Kingdom,Diesel,6.62,2024-03-15
+Watford,Yorkshire and The Humber,United Kingdom,Diesel,5.57,2024-02-16
+Sutton,London,United Kingdom,Diesel,6.61,2024-03-05
+Barking,North West England,United Kingdom,Diesel,5.03,2024-02-02
+Ellesmere Port,Yorkshire and The Humber,United Kingdom,Petrol,6.67,2024-04-17
+Chelmsford,South East England,United Kingdom,Petrol,5.72,2024-03-31
+Doncaster,Yorkshire and The Humber,United Kingdom,Diesel,5.24,2024-02-17
+Sutton,London,United Kingdom,Diesel,6.99,2024-03-16
+Stafford,North West England,United Kingdom,Diesel,5.31,2024-02-03
+Birkenhead,South East England,United Kingdom,Petrol,6.22,2024-04-01
+Leeds,West Yorkshire,United Kingdom,Diesel,6.96,2024-04-27
+Sunderland,North East England,United Kingdom,Petrol,6.23,2024-02-20
+Newcastle,North East England,United Kingdom,Diesel,6.24,2024-03-12
+Sutton,London,United Kingdom,Petrol,5.48,2024-04-28
+Bristol,South West England,United Kingdom,Petrol,6.29,2024-03-15
+Middlesbrough,Yorkshire and The Humber,United Kingdom,Petrol,6.06,2024-04-18
+York,Yorkshire and The Humber,United Kingdom,Petrol,6.13,2024-04-21
+Oxford,South East England,United Kingdom,Diesel,5.51,2024-04-26
+Edinburgh,Scotland,United Kingdom,Diesel,6.99,2024-02-08
+Croydon,London,United Kingdom,Petrol,6.17,2024-02-13
+Margate,Scotland,United Kingdom,Diesel,6.57,2024-02-12
+Cambridge,East of England,United Kingdom,Petrol,6.82,2024-04-21
+Luton,East of England,United Kingdom,Petrol,6.65,2024-03-27
+Ipswich,West Midlands,United Kingdom,Petrol,5.43,2024-04-10
+London,Greater London,United Kingdom,Diesel,5.07,2024-04-23
+Ellesmere Port,Yorkshire and The Humber,United Kingdom,Diesel,6.87,2024-02-03
+Brighton,South East England,United Kingdom,Diesel,6.82,2024-03-21
+Stafford,North West England,United Kingdom,Petrol,6.03,2024-03-11
+Salford,London,United Kingdom,Diesel,5.28,2024-04-03
+High Wycombe,West Midlands,United Kingdom,Diesel,5.27,2024-04-24
+Guildford,South East England,United Kingdom,Diesel,6.5,2024-03-08
+Eastbourne,South East England,United Kingdom,Diesel,6.92,2024-04-21
+Barnsley,South East England,United Kingdom,Petrol,5.56,2024-03-26
+Wigan,North West England,United Kingdom,Diesel,5.64,2024-02-22
+Manchester,Greater Manchester,United Kingdom,Petrol,5.32,2024-03-28
+Sunderland,North East England,United Kingdom,Diesel,5.23,2024-03-22
+York,Yorkshire and The Humber,United Kingdom,Diesel,5.43,2024-04-15
+Margate,Scotland,United Kingdom,Diesel,5.81,2024-02-08
+Exeter,South West England,United Kingdom,Petrol,6.44,2024-02-16
+Eastbourne,South East England,United Kingdom,Diesel,5.52,2024-03-28
+Sunderland,North East England,United Kingdom,Petrol,6.04,2024-02-04
+Bradford,North East England,United Kingdom,Petrol,6.51,2024-04-14
+Birkenhead,South East England,United Kingdom,Diesel,6.18,2024-03-21
+Dundee,Scotland,United Kingdom,Petrol,5.77,2024-03-28
+Derby,East Midlands,United Kingdom,Petrol,6.58,2024-03-19
+Mansfield,East of England,United Kingdom,Petrol,5.2,2024-02-14
